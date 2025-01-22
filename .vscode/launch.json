@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "chrome",
+            "name": "https://www.hltv.org/players",
+            "request": "launch",
+            "url": "https://www.hltv.org/players"
+        }
+    ]
+}
